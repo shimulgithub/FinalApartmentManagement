@@ -1,0 +1,84 @@
+c:\users\shimu\documents\visual studio 2010\Projects\AMS\AMS\bin\AMS.dll
+c:\users\shimu\documents\visual studio 2010\Projects\AMS\AMS\bin\AMS.pdb
+c:\users\shimu\documents\visual studio 2010\Projects\AMS\AMS\obj\Debug\AMS.dll
+c:\users\shimu\documents\visual studio 2010\Projects\AMS\AMS\obj\Debug\AMS.pdb
+C:\Users\shimu\documents\visual studio 2010\Projects\AMS\AMS\obj\Debug\AMS.csprojResolveAssemblyReference.cache
+C:\Users\shimu\documents\visual studio 2010\Projects\AMS\AMS\bin\AMS.BLL.dll
+C:\Users\shimu\documents\visual studio 2010\Projects\AMS\AMS\bin\AMS.BOL.dll
+C:\Users\shimu\documents\visual studio 2010\Projects\AMS\AMS\bin\AMS.Common.dll
+C:\Users\shimu\documents\visual studio 2010\Projects\AMS\AMS\bin\AMS.DAL.dll
+C:\Users\shimu\documents\visual studio 2010\Projects\AMS\AMS\bin\AMS.BLL.pdb
+C:\Users\shimu\documents\visual studio 2010\Projects\AMS\AMS\bin\AMS.BOL.pdb
+C:\Users\shimu\documents\visual studio 2010\Projects\AMS\AMS\bin\AMS.Common.pdb
+C:\Users\shimu\documents\visual studio 2010\Projects\AMS\AMS\bin\AMS.DAL.pdb
+D:\ApartmentManagemnetSystem\AMS\AMS\obj\Debug\AMS.csprojResolveAssemblyReference.cache
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\AMS.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\AMS.pdb
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\AMS.BLL.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\AMS.BOL.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\AMS.Common.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\AMS.DAL.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\Microsoft.WindowsAzure.Storage.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\HtmlAgilityPack.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\AjaxMin.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\Microsoft.Data.OData.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\Microsoft.Data.Edm.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\System.Spatial.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\AMS.BLL.pdb
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\AMS.BOL.pdb
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\AMS.Common.pdb
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\AMS.DAL.pdb
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\AjaxControlToolkit.pdb
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\Microsoft.WindowsAzure.Storage.xml
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\Microsoft.Data.OData.xml
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\Microsoft.Data.Edm.xml
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\System.Spatial.xml
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\ar\AjaxControlToolkit.resources.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\cs\AjaxControlToolkit.resources.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\de\AjaxControlToolkit.resources.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\es\AjaxControlToolkit.resources.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\fr\AjaxControlToolkit.resources.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\he\AjaxControlToolkit.resources.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\hi\AjaxControlToolkit.resources.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\it\AjaxControlToolkit.resources.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\ja\AjaxControlToolkit.resources.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\ko\AjaxControlToolkit.resources.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\nl\AjaxControlToolkit.resources.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\pl\AjaxControlToolkit.resources.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\pt\AjaxControlToolkit.resources.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\ru\AjaxControlToolkit.resources.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\de\Microsoft.Data.OData.resources.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\es\Microsoft.Data.OData.resources.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\fr\Microsoft.Data.OData.resources.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\it\Microsoft.Data.OData.resources.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\ja\Microsoft.Data.OData.resources.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\ko\Microsoft.Data.OData.resources.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\ru\Microsoft.Data.OData.resources.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\de\Microsoft.Data.Edm.resources.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\es\Microsoft.Data.Edm.resources.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\it\Microsoft.Data.Edm.resources.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\de\System.Spatial.resources.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\es\System.Spatial.resources.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\fr\System.Spatial.resources.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\it\System.Spatial.resources.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\ja\System.Spatial.resources.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\ko\System.Spatial.resources.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\ru\System.Spatial.resources.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\zh-Hans\System.Spatial.resources.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\zh-Hant\System.Spatial.resources.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\obj\Debug\AMS.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\obj\Debug\AMS.pdb
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\ClosedXML.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\itextsharp.dll
+D:\ApartmentManagemnetSystem\AMS\AMS\bin\DocumentFormat.OpenXml.dll

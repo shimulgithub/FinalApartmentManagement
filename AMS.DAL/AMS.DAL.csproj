@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DA02787C-1FF5-4803-A30B-FA420B024DE6}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AMS.DAL</RootNamespace>
+    <AssemblyName>AMS.DAL</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="Configuration\BuildingInformationDAL.cs" />
+    <Compile Include="Configuration\ApartmentFundInformationDAL.cs" />
+    <Compile Include="Configuration\BillDepositInformationDAL.cs" />
+    <Compile Include="Configuration\ComplainInformationDAL.cs" />
+    <Compile Include="Configuration\MonthlyServiceChargeDAL.cs" />
+    <Compile Include="Configuration\MeetingInformationDAL.cs" />
+    <Compile Include="Configuration\TenantNoticeInformationDAL.cs" />
+    <Compile Include="Configuration\OwnerNoticeInformationDAL.cs" />
+    <Compile Include="Configuration\EmployeeNoticeInformationDAL.cs" />
+    <Compile Include="Configuration\VisitorInformationDAL.cs" />
+    <Compile Include="Configuration\RentCollectionInformationDAL.cs" />
+    <Compile Include="Configuration\OwnerUtilityInformationDAL.cs" />
+    <Compile Include="Configuration\MaintenanceCostInformationDAL.cs" />
+    <Compile Include="Configuration\EmployeeDutyInformationDAL.cs" />
+    <Compile Include="Configuration\EmployeeLeaveInformationDAL.cs" />
+    <Compile Include="Configuration\EmployeeSalaryInformationDAL.cs" />
+    <Compile Include="Configuration\EmployeeInformationDAL.cs" />
+    <Compile Include="Configuration\TenantMemberInformationDAL.cs" />
+    <Compile Include="Configuration\TenantInformationDAL.cs" />
+    <Compile Include="Configuration\OwnerInformationDAL.cs" />
+    <Compile Include="Configuration\FloorInformationDAL.cs" />
+    <Compile Include="Configuration\MenuHeadDAL.cs" />
+    <Compile Include="Configuration\MenuPageDAL.cs" />
+    <Compile Include="Configuration\MenuPermissionDAL.cs" />
+    <Compile Include="Configuration\UnitInformationDAL.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Configuration\UserDAL.cs" />
+    <Compile Include="Configuration\UserWiseVarsionName_ListDAL.cs" />
+    <Compile Include="DbProviderHelper.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\AMS.BOL\AMS.BOL.csproj">
+      <Project>{73DB9825-DFA4-45B3-9BEB-D95B4047A147}</Project>
+      <Name>AMS.BOL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

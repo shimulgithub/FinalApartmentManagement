@@ -1,0 +1,21 @@
+C:\Users\shimu\documents\visual studio 2010\Projects\AMS\AMS.DAL\bin\Debug\AMS.DAL.dll
+C:\Users\shimu\documents\visual studio 2010\Projects\AMS\AMS.DAL\bin\Debug\AMS.DAL.pdb
+C:\Users\shimu\documents\visual studio 2010\Projects\AMS\AMS.DAL\obj\Debug\AMS.DAL.dll
+C:\Users\shimu\documents\visual studio 2010\Projects\AMS\AMS.DAL\obj\Debug\AMS.DAL.pdb
+C:\Users\shimu\documents\visual studio 2010\Projects\AMS\AMS.DAL\obj\Debug\AMS.DAL.csprojResolveAssemblyReference.cache
+C:\Users\shimu\documents\visual studio 2010\Projects\AMS\AMS.DAL\bin\Debug\AMS.BOL.dll
+C:\Users\shimu\documents\visual studio 2010\Projects\AMS\AMS.DAL\bin\Debug\AMS.BOL.pdb
+D:\ApartmentManagemnetSystem\AMS\AMS.DAL\bin\Debug\AMS.DAL.dll
+D:\ApartmentManagemnetSystem\AMS\AMS.DAL\bin\Debug\AMS.DAL.pdb
+D:\ApartmentManagemnetSystem\AMS\AMS.DAL\bin\Debug\AMS.BOL.dll
+D:\ApartmentManagemnetSystem\AMS\AMS.DAL\bin\Debug\AMS.BOL.pdb
+D:\ApartmentManagemnetSystem\AMS\AMS.DAL\obj\Debug\AMS.DAL.csprojResolveAssemblyReference.cache
+D:\ApartmentManagemnetSystem\AMS\AMS.DAL\obj\Debug\AMS.DAL.dll
+D:\ApartmentManagemnetSystem\AMS\AMS.DAL\obj\Debug\AMS.DAL.pdb
+D:\Documents\ApartmentManagemnetSystem\AMS\AMS.DAL\bin\Debug\AMS.DAL.dll
+D:\Documents\ApartmentManagemnetSystem\AMS\AMS.DAL\bin\Debug\AMS.DAL.pdb
+D:\Documents\ApartmentManagemnetSystem\AMS\AMS.DAL\bin\Debug\AMS.BOL.dll
+D:\Documents\ApartmentManagemnetSystem\AMS\AMS.DAL\bin\Debug\AMS.BOL.pdb
+D:\Documents\ApartmentManagemnetSystem\AMS\AMS.DAL\obj\Debug\AMS.DAL.csprojResolveAssemblyReference.cache
+D:\Documents\ApartmentManagemnetSystem\AMS\AMS.DAL\obj\Debug\AMS.DAL.dll
+D:\Documents\ApartmentManagemnetSystem\AMS\AMS.DAL\obj\Debug\AMS.DAL.pdb
